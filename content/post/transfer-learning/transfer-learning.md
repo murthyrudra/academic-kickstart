@@ -1,6 +1,6 @@
 +++
 title = "Intuition Behind Transfer Learning"
-date = 2019-02-06T00:00:00
+date = 2019-07-05T00:00:00
 
 # List format.
 # 0 = Simple
