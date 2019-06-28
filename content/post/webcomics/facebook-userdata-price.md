@@ -1,6 +1,6 @@
 +++
 title = "Facebook Reveals Value of User's data"
-date = 2019-02-06T00:00:00
+date = 2019-06-27T00:00:00
 
 # List format.
 # 0 = Simple
