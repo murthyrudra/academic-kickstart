@@ -15,4 +15,4 @@ weight = 60
 
 +++
 
-I was an intern at IBM Research Labs, Bengalooru for 6 months (from May 2016). I worked with Mitesh Khapra primarily on Multilingual Named Entity Recognition. Additionally, I had explored language identification and named entity recognition in Code-Switched data as part of my internship. 
+I was an intern at IBM Research Labs, Bengalooru for 6 months (from May 2016). I worked with Mitesh Khapra primarily on Multilingual Named Entity Recognition. Additionally, I had explored language identification and named entity recognition in Code-Switched data as part of my internship.

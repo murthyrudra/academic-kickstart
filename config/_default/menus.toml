@@ -29,14 +29,9 @@
   weight = 50
 
 [[main]]
-  name = "Academic Activities"
-  url = "#academic-activities"
+  name = "Academics"
+  url = "academic-activities/"
   weight = 60
-
-[[main]]
-  name = "Resources and Tools"
-  url = "#rescTools"
-  weight = 70
 
 [[main]]
   name = "Contact"
@@ -45,7 +40,7 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[main]]
-    name = "CV"
-    url = "files/cv.pdf"
-    weight = 90
+ # [[main]]
+ #    name = "CV"
+ #    url = "files/cv.pdf"
+ #   weight = 90
