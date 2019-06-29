@@ -1,6 +1,6 @@
 +++
 title = "Intuition Behind Transfer Learning"
-date = 2019-07-05T00:00:00
+date = 2019-05-05T00:00:00
 
 # List format.
 # 0 = Simple
@@ -24,15 +24,15 @@ Now, let me quote the Wikipedia definition for [Transfer Learning](https://en.wi
 
 In the field of Natural Language Processing (NLP), transfer learning can take the form of multi-task learning or multilingual learning. Multi-task learning refers to using knowledge from one task to improve performance in a related task in the same language. For example, sentiment analysis helping emotion analysis. Similarly, multilingual learning refers to using knowledge from a task in one language to improve performance in a related task in another language language. Usually in multilingual learning, we focus on the case where the tasks are the same in both the languages.
 
-In this post, I won't be going into the details of Transfer Learning. Sebastian Ruder's blog post on [Transfer Learning](http://ruder.io/transfer-learning/) summarizes transfer learning. I will be motivating transfer learning from a slightly different perspective. 
+In this post, I won't be going into the details of Transfer Learning. Sebastian Ruder's blog post on [Transfer Learning](http://ruder.io/transfer-learning/) summarizes transfer learning. I will be motivating transfer learning from a slightly different perspective.
 
 ### Transfer Learning: A Strong Prior Distribution Over Models
 _Zoph et.al 2016_ quotes in his paper titled **Transfer Learning for Low-Resource Neural Machine Translation**:
 
-> A justification for this approach is that in scenarios where we have limited training data, we need a strong prior distribution over models. The parent model trained on a large amount of bilingual data can be considered an anchor point, the peak of our prior distribution in model space. When we train the child model initialised with the parent model, we fix parameters likely to be useful across tasks so that they will not be changed during child-model training. 
+> A justification for this approach is that in scenarios where we have limited training data, we need a strong prior distribution over models. The parent model trained on a large amount of bilingual data can be considered an anchor point, the peak of our prior distribution in model space. When we train the child model initialised with the parent model, we fix parameters likely to be useful across tasks so that they will not be changed during child-model training.
 
 ### Supervised Learning as Curve Fitting
-The goal of supervised learning can be thought of as fitting a curve (function) given some data points _i.e.,_ $y = f(x)$. Learn the function $f$, given input values $x$ and corresponding output values $y$. If we had $y$ for every point in the input space, we can fit the curve exactly. This is not the case in real-life scenarios. We usually get to collect a subset of measurements $y$ for some sample of points $x$ in the input space. The measurements $y$ obtained might be noisy. As a consequence, there are many possible functions which can fit the data well. The problem reduces to **search**, where the goal is to find a function which fits the data. 
+The goal of supervised learning can be thought of as fitting a curve (function) given some data points _i.e.,_ $y = f(x)$. Learn the function $f$, given input values $x$ and corresponding output values $y$. If we had $y$ for every point in the input space, we can fit the curve exactly. This is not the case in real-life scenarios. We usually get to collect a subset of measurements $y$ for some sample of points $x$ in the input space. The measurements $y$ obtained might be noisy. As a consequence, there are many possible functions which can fit the data well. The problem reduces to **search**, where the goal is to find a function which fits the data.
 
 There are situations, where we rarely get to collect observations. The collected observations may not be indicative of the actual function to be learnt. Supervised learning fails badly in these cases. If we have a related task with abundant data points, we can train the supervised model on this auxiliary task. Now when we fine-tune the auxiliary task model on the actual task data, the model is already restricted in the function space. The search now proceeds to find a suitable function to fit the actual task data in the neighbourhood.
 
@@ -49,7 +49,7 @@ X_rad = X * np.pi / 180
 Y = np.cos(X_rad)
 ```
 
-The following figure plots the generated data points {{< figure src="cosine.png" title="" >}} We now randomly selecting a subset of points (remember we used np.random to generate the points) to train our model. 
+The following figure plots the generated data points {{< figure src="cosine.png" title="" >}} We now randomly selecting a subset of points (remember we used np.random to generate the points) to train our model.
 ```python
 X_small = X_rad[:20]
 Y_small = Y[:20]
@@ -115,7 +115,7 @@ X_rad = X * np.pi / 180
 # Get the corresponding cosine values for the inputs
 Y = np.sin(X_rad)
 ```
-The training points for sine function is {{< figure src="sine.png" title="" >}} and the curve fit by the model is {{< figure src="sine-predicted.png" title="" >}} 
+The training points for sine function is {{< figure src="sine.png" title="" >}} and the curve fit by the model is {{< figure src="sine-predicted.png" title="" >}}
 We will use the trained model and further fine-tune the model on smaller set of points for the cosine function. The resulting fitted curve looks as below {{< figure src="cosine-transfer.png" title="" >}}
 
 Unlike the cosine model trained on smaller set of points, the fine-tuned cosine model does a reasonably decent job of mimicking the cosine function. The model also does a reasonable job outside of the domain. This is what I believe _Zoph et.al 2016_ meant when they said that {{< hl >}} the parent model enforces a prior distribution on the function space, allowing the model to learn a function close-enough to the function to be fitted. Unlike random initializations where the possible function space is very large. {{< /hl >}}
