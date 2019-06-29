@@ -8,5 +8,6 @@ featured = true
 publication = "Proceedings of the 2019 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)"
 tags = ["indian languages", "neural machine translation", "low-resource languages", "pre-ordering"]
 url_pdf = "https://www.aclweb.org/anthology/N19-1387"
+url_poster = "/pdf/naacl-poster.pdf"
 +++
  

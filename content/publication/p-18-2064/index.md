@@ -8,6 +8,10 @@ featured = false
 publication = "*Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)*"
 tags = ["indian languages", "named entity recognition", "deep learning", "low-resource languages", "multilingual learning"]
 url_pdf = "http://aclweb.org/anthology/P18-2064"
+url_code = "https://github.com/murthyrudra/NeuralNER"
+url_slides = "https://www.aclweb.org/anthology/attachments/P18-2064.Presentation.pdf"
+url_video = "https://vimeo.com/285804037"
+url_dataset = "http://www.cfilt.iitb.ac.in/ner/download_data.html"
 +++
 
 The Marathi named entity annotated data described in the paper can be downloaded [here](http://www.cfilt.iitb.ac.in/ner/download_data.html).

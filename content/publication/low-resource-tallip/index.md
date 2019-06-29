@@ -8,6 +8,8 @@ featured = false
 publication = "*ACM Trans. Asian Low-Resour. Lang. Inf. Process.*"
 tags = ["indian languages", "named entity recognition", "deep learning", "low-resource languages", "multilingual learning"]
 url_pdf = "http://doi.acm.org/10.1145/3238797"
+url_code = "https://github.com/murthyrudra/NeuralNER"
+url_dataset = "http://www.cfilt.iitb.ac.in/ner/download_data.html"
 doi = "10.1145/3238797"
 +++
 
