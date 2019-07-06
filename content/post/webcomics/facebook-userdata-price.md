@@ -2,6 +2,9 @@
 title = "Facebook Reveals Value of User's data"
 date = 2019-06-27T00:00:00
 
+tags = ["web_comics']
+
+
 # List format.
 # 0 = Simple
 # 1 = Detailed
