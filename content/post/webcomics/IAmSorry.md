@@ -1,9 +1,6 @@
 +++
 title = "Facebook Reveals Value of User's data"
-date = 2019-06-7T00:00:00
-
-tags = ["web_comics']
-
+date = 2019-06-07T00:00:00
 # List format.
 # 0 = Simple
 # 1 = Detailed
@@ -16,7 +13,6 @@ image = ""
 caption = ""
 discussionId = 4
 +++
-
 
 
 {{< figure src="IamSorry.png" title="" >}}  
