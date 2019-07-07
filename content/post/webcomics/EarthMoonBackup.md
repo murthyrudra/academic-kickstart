@@ -1,6 +1,6 @@
 +++
 title = "A Break-up of Astronomical Proportion!"
-date = 2019-06-07T00:00:00
+date = 2019-07-07T00:00:00
 # List format.
 # 0 = Simple
 # 1 = Detailed
