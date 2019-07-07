@@ -1,6 +1,6 @@
 +++
 title = "I am Sorry, Good Boi!"
-date = 2019-06-07T00:00:00
+date = 2019-07-06T00:00:00
 # List format.
 # 0 = Simple
 # 1 = Detailed
