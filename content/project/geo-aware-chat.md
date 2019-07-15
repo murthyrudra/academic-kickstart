@@ -1,9 +1,5 @@
 ---
 title: Chirp: Geo-Aware Chat app for Android with Automatic Translation Support
-tags:
-- Android
-- Machine Translation
-- Geo-aware Chat
 date: "2019-07-15T00:00:00Z"
 
 
