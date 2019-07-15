@@ -1,6 +1,14 @@
 +++
 title = "Trekking"
 date = 2017-01-01T00:00:00
+subtitle = ""
+summary = ""
+authors = []
+tags = ['Trekking']
+categories = ['Trekking']
+featured = false
+draft = false
+
 
 # List format.
 #   0 = Simple

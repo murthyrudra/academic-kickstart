@@ -1,6 +1,14 @@
 +++
 title = "A Break-up of Astronomical Proportion!"
 date = 2019-07-07T00:00:00
+subtitle = ""
+summary = ""
+authors = []
+tags = ['Webcomics', 'Relation']
+categories = ['Webcomics']
+featured = false
+draft = false
+
 # List format.
 # 0 = Simple
 # 1 = Detailed

@@ -1,6 +1,14 @@
 +++
 title = "My NAACL 2019 Experience: Part 1"
 date = 2019-06-07T00:00:00
+subtitle = ""
+summary = ""
+authors = []
+tags = ['NAACL-2019']
+categories = ['NAACL-2019']
+featured = true
+draft = false
+
 
 # List format.
 # 0 = Simple

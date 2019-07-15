@@ -1,6 +1,13 @@
 +++
 title = "Intuition Behind Transfer Learning"
 date = 2019-05-05T00:00:00
+subtitle = ""
+summary = ""
+authors = []
+tags = ['Transfer Learning']
+categories = ['Transfer Learning']
+featured = false
+draft = false
 
 # List format.
 # 0 = Simple

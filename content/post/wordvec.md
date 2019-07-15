@@ -1,6 +1,13 @@
 +++
 title = "My thoughts on word2vec"
 date = 2019-02-03T00:00:00
+subtitle = ""
+summary = ""
+authors = []
+tags = ['word embeddings']
+categories = ['word embeddings']
+featured = false
+draft = false
 
 # List format.
 #   0 = Simple

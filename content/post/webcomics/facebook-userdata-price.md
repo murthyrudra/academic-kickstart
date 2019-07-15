@@ -1,7 +1,13 @@
 +++
 title = "Facebook Reveals Value of User's data"
 date = 2019-06-27T00:00:00
-
+subtitle = ""
+summary = ""
+authors = []
+tags = ['Webcomics', 'Facebook']
+categories = ['Webcomics']
+featured = false
+draft = false
 
 
 # List format.
