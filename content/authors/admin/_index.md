@@ -88,13 +88,13 @@ interests = [
 
 +++
 
-Hi, I am a Research Scholar from [Center For Indian Language Technology](http://www.cfilt.iitb.ac.in/) lab headed by [Professor. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/). My area of interest is Deep Multilingual Learning to various Natural Language Processing(NLP) tasks. I sometimes create Web-Comics (*believe me it's not that great*) which you can find [here](https://murthyrudra.github.io/post/).
+Hi, I am a Research Scholar from [Center For Indian Language Technology](http://www.cfilt.iitb.ac.in/) lab headed by [Professor. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/). My area of interest is Deep Multilingual Learning to various Natural Language Processing(NLP) tasks. 
+
+I sometimes create Web-Comics (*believe me it's not that great*) which you can find [here](https://murthyrudra.github.io/post/).
 
 #### Research Summary
 
 > **Pinky:** Gee, Brain, What do you want to do today?  
 > **Brain:** The same thing we do everyday, Pinky. Borrow features from high-resource language to improve NLP Task performance in low-resource languages
 
-Deep Learning techniques have become the *de-facto* approach for any Natural Language Processing (NLP) task. Deep neural networks coupled with unsupervised learning (in the form of pre-trained word embeddings or initial training of language model followed by supervised training) have revolutionised the area of NLP, at least for resource-rich languages. However, the success of deep learning techniques needs to be taken with a pinch of salt. The deep learning techniques have known to perform badly for low-resource languages when trained on very small data. To be fair even traditional machine learning models would perform badly if not for feature engineering. Due to limited data the model cannot reliably establish correlations with features and class labels leading to poor performance.
-
-In my thesis, I focus on borrowing features (implicitly statistics) from a related language (also known as multilingual learning). This should minimise the impact of data sparsity and lead to improvements in the low-resource language for the task in hand. We apply the above intuition to Named Entity recognition (NER) task. We show that borrowing features from a related languages infact helps improve the NER performance in low-resource languages. However, the improvements gained is limited by the lexical gap between the two languages. Though the lexical gap can be overcome by use of crosslingual embeddings, these embeddings have known to be of poor quality for Indian languages. Currently, my research is focused on obtaining better crosslingual embeddings for Indian languages.
+I am broadly interested in the application of Deep Learning to various Natural Language Processing (NLP) tasks. Recently, I have garnered interest in **Multilingual Learning for NLP in Low-Resource Languages**. Low-resource languages do not have sufficient data, tools, and other resources (also known as data sparsity) to successfully train existing machine learning models for any NLP task. My current focus is on borrowing features (implicitly statistics) from one or more related languages (multilingual learning). I am specifically exploring ways of minimizing the divergence between unrelated languages at various granularities to better existing multilingual learning approaches.
