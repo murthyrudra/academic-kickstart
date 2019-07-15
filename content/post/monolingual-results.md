@@ -4,8 +4,8 @@ date = 2019-02-04T22:34:35+05:30
 subtitle = ""
 summary = ""
 authors = []
-tags = ['NER', 'Indian Languages', 'European Languages']
-categories = ['NER', 'Indian Languages', 'European Languages']
+tags = ['named entity recognition', 'Indian Languages', 'European Languages']
+categories = ['named entity recognition', 'Indian Languages', 'European Languages']
 featured = false
 draft = false
 
