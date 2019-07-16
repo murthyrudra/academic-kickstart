@@ -7,8 +7,8 @@ summary: ""
 authors: []
 tags: ['Webcomics']
 categories: ['Webcomics']
-date: 2019-07-16T10:42:48+05:30
-lastmod: 2019-07-16T10:42:48+05:30
+date: 2019-07-06T10:42:48+05:30
+lastmod: 2019-07-06T10:42:48+05:30
 featured: false
 draft: false
 
