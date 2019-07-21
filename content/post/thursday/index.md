@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The curiopus case of the missing Thursday!"
+title: "The curious case of the missing Thursday!"
 subtitle: ""
 summary: ""
 authors: []

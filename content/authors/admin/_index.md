@@ -90,7 +90,7 @@ interests = [
 
 Hi, I am a Research Scholar from [Center For Indian Language Technology](http://www.cfilt.iitb.ac.in/) lab headed by [Professor. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/). My area of interest is Deep Multilingual Learning to various Natural Language Processing(NLP) tasks. 
 
-I sometimes create Web-Comics (*believe me it's not that great*) which you can find [here](https://murthyrudra.github.io/tags/webcomics/).
+I sometimes create Web-Comics (*or a gallery of bad Web-comics ever created*) which you can find [here](https://murthyrudra.github.io/tags/webcomics/).
 
 #### Research Summary
 
