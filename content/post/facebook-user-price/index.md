@@ -34,3 +34,6 @@ projects: []
 
 {{< figure src="facebookWorth.png" title="" >}}
 
+
+##### Acknowledgements
+The avatar was drawn using Inskcape. I would like to thank **Sids Art - Inkscape And Drawings** for the nice Youtube Tutorial {{< youtube L9cVUTrXPMw >}}
