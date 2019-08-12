@@ -32,5 +32,5 @@ projects: []
 
 
 ##### Acknowledgements
-The content was created using Inskcape. I would like to thank **Sids Art - Inkscape And Drawings** for the nice Youtube Tutorial {{< youtube vExdB5MI26c >}} and {{ < youtube FjiqyHj5R6w > }}
+The content was created using Inskcape. I would like to thank **Sids Art - Inkscape And Drawings** for the nice Youtube Tutorial {{< youtube vExdB5MI26c >}} and {{< youtube FjiqyHj5R6w >}}
 
