@@ -17,11 +17,6 @@ type = "widget_page"
    weight = "2"
 
 [[main]]
-  name = "Internship"
-  url = "#internship.md"
-  weight = "3"
-
-  [[main]]
     name = "Resources and Tools"
     url = "#rescTools"
     weight = 4
