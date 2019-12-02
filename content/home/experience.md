@@ -24,16 +24,16 @@ date_format = "Jan 2006"
   company_url = "https://www.microsoft.com/en-in/msidc/hyderabad-campus.aspx"
   location = "Hyderabad"
   date_start = "2019-09-18"
-  date_end = "Present"
-  description = """Improve Indic Language to Indic Language Translation"""
+  date_end = ""
+  description = """ Improve Indic Language to Indic Language Translation """
 
-
+[[experience]]
  title = "Internship"
   company = "IBM IRL Bangalore India"
   company_url = "https://www.microsoft.com/en-in/msidc/hyderabad-campus.aspx"
   location = "Bangalore"
   date_start = "2016-05-07"
   date_end = "2016-07-07"
-  description = """Study the performance of deep learning models for language identification task"""
+  description = """ Study the performance of deep learning models for language identification task """
 
 +++
