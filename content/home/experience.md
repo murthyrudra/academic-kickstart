@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company = "Microsoft India (R&D) Pvt. Ltd."
   company_url = "https://www.microsoft.com/en-in/msidc/hyderabad-campus.aspx"
   location = "Hyderabad"
-  date_start = "2019-09-18"
+  date_start = "2019-11-18"
   date_end = ""
   description = """ Improve Indic Language to Indic Language Translation """
 
