@@ -88,13 +88,13 @@ interests = [
 
 +++
 
-Hi, I am a Research Scholar from [Center For Indian Language Technology](http://www.cfilt.iitb.ac.in/) lab headed by [Professor. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/). My area of interest is Deep Multilingual Learning to various Natural Language Processing(NLP) tasks. 
+Hi, I am a Research Scholar from [Center For Indian Language Technology](http://www.cfilt.iitb.ac.in/) lab headed by [Professor. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/). My area of interest is using Deep Multilingual Learning to various Natural Language Processing(NLP) tasks. 
 
-I sometimes create Web-Comics (*or a gallery of bad Web-comics ever created*) which you can find [here](https://murthyrudra.github.io/tags/webcomics/).
+You can get to know more about my hobbies [here](https://murthyrudra.github.io/tags/webcomics/) and [here](https://murthyrudra.github.io/post/trekking/).
 
 #### Research Summary
 
 > **Pinky:** Gee, Brain, What do you want to do today?  
 > **Brain:** The same thing we do everyday, Pinky. Borrow features from high-resource language to improve NLP Task performance in low-resource languages
 
-I am broadly interested in the application of Deep Learning to various Natural Language Processing (NLP) tasks. Recently, I have garnered interest in **Multilingual Learning for NLP in Low-Resource Languages**. Low-resource languages do not have sufficient data, tools, and other resources (also known as data sparsity) to successfully train existing machine learning models for any NLP task. My current focus is on borrowing features (implicitly statistics) from one or more related languages (multilingual learning). I am specifically exploring ways of minimizing the divergence between unrelated languages at various granularities to better existing multilingual learning approaches.
+I am broadly interested in the application of Deep Learning to various Natural Language Processing (NLP) tasks. Recently, I have garnered interest in **Multilingual Learning for NLP in Low-Resource Languages**. Low-resource languages do not have sufficient data, tools, and other resources (leading to data sparsity) to successfully train existing machine learning models for any NLP task. My current focus is on borrowing features (implicitly statistics) from one or more related languages (multilingual learning). I am specifically exploring ways of minimizing the divergence between unrelated languages at various granularities to better existing multilingual learning approaches.

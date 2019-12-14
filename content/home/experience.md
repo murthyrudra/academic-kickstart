@@ -30,7 +30,6 @@ date_format = "Jan 2006"
 [[experience]]
  title = "Internship"
   company = "IBM IRL Bangalore India"
-  company_url = "https://www.microsoft.com/en-in/msidc/hyderabad-campus.aspx"
   location = "Bangalore"
   date_start = "2016-05-07"
   date_end = "2016-07-07"
