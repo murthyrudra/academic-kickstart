@@ -21,7 +21,6 @@ email = "rudra@cse.iitb.ac.in"
 # List (academic) interests or hobbies
 interests = [
   "Natural Language Processing",
-  "Deep Learning",
   "Multilingual Learning"
 ]
 
