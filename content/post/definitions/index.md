@@ -29,7 +29,7 @@ projects: []
 ---
 
 
-{{< figure src="birthdayy.png" title="Birthday" >}}
+{{< figure src="birthday.png" title="Birthday" >}}
 
 {{< figure src="headphone.png" title="Headphones" >}}
 
