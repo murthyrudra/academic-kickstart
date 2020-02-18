@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://www.microsoft.com/en-in/msidc/hyderabad-campus.aspx"
   location = "Hyderabad"
   date_start = "2019-11-18"
-  date_end = ""
+  date_end = "2020-02-14"
   description = """ Improve Indic Language to Indic Language Translation """
 
 [[experience]]
