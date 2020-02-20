@@ -34,3 +34,5 @@ projects: []
 {{< figure src="headphone.png" title="Headphones" >}}
 
 {{< figure src="smartphones.png" title="Smartphones" >}}
+
+{{< figure src="democracy.png" title="Democracy" >}}
