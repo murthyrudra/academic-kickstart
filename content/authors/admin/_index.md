@@ -26,6 +26,11 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
+  course = "PhD"
+  institution = "Indian Institute Of Technology, Bombay"
+  year = 2020
+
+[[education.courses]]
   course = "ME in Data Mining"
   institution = "Indian Institute Of Science, Bengaluru"
   year = 2013
