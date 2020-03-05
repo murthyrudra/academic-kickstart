@@ -6,11 +6,11 @@ name = "Rudra Murthy V"
 superuser = true
 
 # Role/position
-role = "PhD Student"
+role = "Unemployed"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Indian Institute Of Technology Bombay", url = "http://iitb.ac.in/" } ]
+organizations = [ { name = "", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include multilingual learning for various Natural Language Processing Tasks."
@@ -25,6 +25,11 @@ interests = [
 ]
 
 # List qualifications (such as academic degrees)
+[[education.courses]]
+  course = "PhD"
+  institution = "Indian Institute Of Technology Bombay"
+  year = 2020
+
 [[education.courses]]
   course = "ME in Data Mining"
   institution = "Indian Institute Of Science, Bengaluru"
