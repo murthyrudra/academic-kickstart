@@ -6,7 +6,7 @@ name = "Rudra Murthy V"
 superuser = true
 
 # Role/position
-role = "Researcher"
+role = "Former CHild"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -87,7 +87,7 @@ interests = [
 
 +++
 
-Hi, I was a Research Scholar from [Center For Indian Language Technology](http://www.cfilt.iitb.ac.in/) lab headed by [Professor. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/). My area of interest is using Deep Multilingual Learning to various Natural Language Processing(NLP) tasks. 
+Hi, I amd currently working as a Research Scientist at IBM Research, India. I pursued my PhD from [Center For Indian Language Technology](http://www.cfilt.iitb.ac.in/) lab headed by [Professor. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/). My area of interest is using Deep Multilingual Learning to various Natural Language Processing(NLP) tasks. 
 
 You can get to know more about my hobbies [here](https://murthyrudra.github.io/tags/webcomics/) and [here](https://murthyrudra.github.io/post/trekking/).
 
