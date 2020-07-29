@@ -89,7 +89,7 @@ interests = [
 
 About Me? 
 
-Hmmm, I am an atom in the universe who is trying his best at *adulting*..? I wanted to become an over-achiever but ended up becoming an overthinker. 
+Hmmm, I am an atom in the universe who is trying his best at *adulting*..? I wanted to become an over-achiever but ended up becoming an overthinker 🤷 
 
 I am currently working as a Research Scientist at IBM Research, India. I pursued my PhD from [Center For Indian Language Technology](http://www.cfilt.iitb.ac.in/) lab headed by [Professor. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/). My area of interest is using Deep Multilingual Learning to various Natural Language Processing(NLP) tasks. 
 
