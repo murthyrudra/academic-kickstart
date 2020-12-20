@@ -9,7 +9,7 @@ tags: ['Webcomics']
 categories: ['Webcomics']
 date: 2020-12-18T18:42:57+05:30
 lastmod: 2020-12-18T18:42:57+05:30
-featured: false
+featured: true
 draft: false
 
 # Featured image

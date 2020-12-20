@@ -23,7 +23,7 @@ caption = ""
 discussionId = 1
 +++
 
-I have recently gained interest in Trekking. Here is a list of trekking spots visited by me and which you should never forget to visit.
+I had gained interest in Trekking. Here is a list of trekking spots visited by me and which you should never forget to visit.
 
 * [Tikona Fort](https://en.wikipedia.org/wiki/Tikona)
 * [Rajmachi](https://en.wikipedia.org/wiki/Rajmachi)

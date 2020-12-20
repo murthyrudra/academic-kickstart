@@ -6,7 +6,7 @@ summary = ""
 authors = []
 tags = ['NAACL-2019']
 categories = ['NAACL-2019']
-featured = true
+featured = false
 draft = false
 
 
