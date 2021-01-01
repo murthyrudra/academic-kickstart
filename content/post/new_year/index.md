@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-{{< figure src="newYear.png" title="New Year" >}}
+{{< figure src="newYear.jpg" title="New Year" >}}
