@@ -1,20 +1,24 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Looking inside Noun Compounds: Unsupervised Prepositional and Free Paraphrasing
-  using Language Models'
+title: 'HiNER: A Large Hindi Named Entity Recognition Dataset'
 subtitle: ''
 summary: ''
 authors:
-- Girishkumar Ponkiya
 - Rudra Murthy
+- Pallab Bhattacharjee
+- Rahul Sharnagat
+- Jyotsana Khatri
+- Diptesh Kanojia
 - Pushpak Bhattacharyya
-- Girish Palshikar
-tags: []
+tags:
+- Computation and Language (cs.CL)
+- 'FOS: Computer and information sciences'
+- 'FOS: Computer and information sciences'
 categories: []
-date: '2020-01-01'
-lastmod: 2020-09-22T17:05:16+05:30
-featured: false
+date: '2022-01-01'
+lastmod: 2022-05-13T17:02:14+05:30
+featured: true
 draft: false
 
 # Featured image
@@ -31,9 +35,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-22T11:35:16.899892Z'
+publishDate: '2022-05-13T11:32:14.337278Z'
 publication_types:
-- 1
+- '0'
 abstract: ''
-publication: '*Findings EMNLP*'
+publication: '*arXiv*'
+doi: 10.48550/ARXIV.2204.13743
+links:
+- name: URL
+  url: https://arxiv.org/abs/2204.13743
 ---
