@@ -1,24 +1,25 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'HiNER: A Large Hindi Named Entity Recognition Dataset'
+title: 'Naamapadam: A Large-Scale Named Entity Annotated Data for Indic Languages'
 subtitle: ''
 summary: ''
 authors:
+- Arnav Mhaske
+- Harshit Kedia
+- Sumanth Doddapaneni
+- Mitesh M. Khapra
+- Pratyush Kumar
 - Rudra Murthy
-- Pallab Bhattacharjee
-- Rahul Sharnagat
-- Jyotsana Khatri
-- Diptesh Kanojia
-- Pushpak Bhattacharyya
+- Anoop Kunchukuttan
 tags:
 - Computation and Language (cs.CL)
 - 'FOS: Computer and information sciences'
 - 'FOS: Computer and information sciences'
 categories: []
 date: '2022-01-01'
-lastmod: 2022-05-13T17:02:14+05:30
-featured: false
+lastmod: 2023-01-06T14:15:57+05:30
+featured: true
 draft: false
 
 # Featured image
@@ -35,13 +36,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-13T11:32:14.337278Z'
+publishDate: '2023-01-06T08:45:57.834021Z'
 publication_types:
 - '0'
 abstract: ''
 publication: '*arXiv*'
-doi: 10.48550/ARXIV.2204.13743
+doi: 10.48550/ARXIV.2212.10168
 links:
 - name: URL
-  url: https://arxiv.org/abs/2204.13743
+  url: https://arxiv.org/abs/2212.10168
 ---

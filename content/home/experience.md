@@ -19,10 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Staff Research Scientist"
+  company = "IBM IRL Bangalore India"
+  location = "Bangalore"
+  date_start = "2022-08-01"
+  description = """ Natural Language Processing """
+
+[[experience]]
+  title = "Visiting Faculty"
+  company = "Indian Institute of Information Technology Lucknow, India"
+  location = "Lucknow"
+  date_start = "2022-01-01"
+  date_end = "2022-06-01"
+  description = """ Natural Language Processing """
+
+[[experience]]
   title = "Research Scientist"
   company = "IBM IRL Bangalore India"
   location = "Bangalore"
   date_start = "2020-04-15"
+  date_end = "2022-08-01"
   description = """ Natural Language Processing """
 
 [[experience]]
